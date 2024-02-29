@@ -1,0 +1,2 @@
+[run]
+omit=tests/*, .venv/*, manage.py, *test.py, django_testing, django_testing/__init__.py, students/__init__.py, students/migrations/__init__.py
